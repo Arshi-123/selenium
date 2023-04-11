@@ -23,5 +23,5 @@ driver.get("https://www.uts.edu.au/")
 
 driver.find_element(By.XPATH,"/html/body/div[1]/header/div[4]/nav/ul/li[1]/span").click()
 
-
+#quit file
 driver.quit()
