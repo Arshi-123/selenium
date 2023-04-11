@@ -1,0 +1,64 @@
+1681195488170	geckodriver	INFO	Listening on 127.0.0.1:42797
+1681195488208	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 80" "--remote-debugging-port" "35925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq4cScS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681195488411	Marionette	INFO	Marionette enabled
+1681195488413	Marionette	INFO	Listening on port 42051
+console.error: "Warning: unrecognized command line flag -ignore-certificate-errors\n"
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:35925
+Read port: 42051
+1681195488619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq4cScS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35925/devtools/browser/fed68fae-4340-4325-bc28-c430fcf7f058
+console.error: ({})
+1681195494315	Marionette	INFO	Stopped listening on port 42051
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1681195510622	geckodriver	INFO	Listening on 127.0.0.1:56073
+1681195510660	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 80" "--remote-debugging-port" "50343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQT8mdT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681195511069	Marionette	INFO	Marionette enabled
+1681195511071	Marionette	INFO	Listening on port 46679
+console.error: "Warning: unrecognized command line flag -ignore-certificate-errors\n"
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:50343
+Read port: 46679
+1681195511236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQT8mdT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50343/devtools/browser/224105b0-a36b-4c60-bf48-16a6b9c79331
+console.error: ({})
+1681195518051	Marionette	INFO	Stopped listening on port 46679
+1681195818251	geckodriver	INFO	Listening on 127.0.0.1:55511
+1681195818291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 80" "--remote-debugging-port" "58953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecrTv6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681195818689	Marionette	INFO	Marionette enabled
+1681195818691	Marionette	INFO	Listening on port 43027
+Read port: 43027
+console.error: "Warning: unrecognized command line flag -ignore-certificate-errors\n"
+console.error: "Warning: unrecognized command line flag -window-size\n"
+WebDriver BiDi listening on ws://127.0.0.1:58953
+1681195818783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecrTv6o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58953/devtools/browser/fd81d853-901a-4df6-b071-ac874051bdac
+console.error: ({})
+1681195826709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681195826710	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681195826710	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: ({})
+1681195826866	Marionette	INFO	Stopped listening on port 43027
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
